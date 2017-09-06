@@ -1,4 +1,8 @@
-# Computer Vision with Python - Section
+# Computer Vision with Python - Section 1
+
+## Introduction
+
+No source codes developed.
 
 --
 

@@ -4,4 +4,6 @@ The following repo contains source codes written following "<a href="https://www
 
 OpenCV Installation instructions: http://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/
 
-<a href="example.com" target="_blank">New Tab</a>
+--
+
+Rambod Rahmani <<rambodrahmani@autistici.org>>
