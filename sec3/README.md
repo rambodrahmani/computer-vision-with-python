@@ -1,4 +1,6 @@
-# Computer Vision with Python - Section
+# Computer Vision with Python - Section 3
+
+## Media with Python
 
 --
 
