@@ -2,7 +2,7 @@
  #
  # Created by Rambod Rahmani.
  # Section 4 - Image Theory
- # lines_rectangles_circles.py
+ # text_on_images.py
  #
  ##
 
@@ -11,11 +11,8 @@ import numpy as np
 
 img = cv2.imread("me.jpg")
 
-cv2.line(img, (0,0), (100,100), (0,0,255), 5)
-
-cv2.rectangle(img, (0,300), (100,200), (0,0,255), 10)
-
-cv2.circle(img, (200,200), 64, (0,0,230), 3)
+font = cv2.FONT_HERSHEY_SIMPLEX
+cv2.putText(img, "Rambod Rahmani", (10, 390), font, 1, (255,255,255), 2)
 
 cv2.imshow("Rambod Rahmani Picture", img)
 

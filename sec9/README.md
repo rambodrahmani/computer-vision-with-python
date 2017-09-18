@@ -1,4 +1,6 @@
-# Computer Vision with Python - Section
+# Computer Vision with Python - Section 9
+
+## App: Face Detection
 
 --
 
