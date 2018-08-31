@@ -9,6 +9,7 @@
 import cv2
 import numpy as np
 
+# load image
 img = cv2.imread("me.jpg")
 
 print(img[1][1])
