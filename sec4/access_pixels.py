@@ -25,7 +25,11 @@ img[px][py][0] = 255
 img[px][py][1] = 255
 img[px][py][2] = 255
 
+# show image in the window
 cv2.imshow("Rambod Rahmani Picture", img)
 
+# wait for user input
 cv2.waitKey(0)
+
+# destroy all windows
 cv2.destroyAllWindows()
