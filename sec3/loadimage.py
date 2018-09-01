@@ -1,10 +1,10 @@
 ##
- #
- # Created by Rambod Rahmani.
- # Section 3 - Load Image
- # loadimage.py
- #
- ##
+#
+# Created by Rambod Rahmani.
+# Section 3 - Load Image
+# loadimage.py
+#
+##
 
 import cv2
 import numpy as np

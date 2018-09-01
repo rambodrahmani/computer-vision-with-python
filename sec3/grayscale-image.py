@@ -1,10 +1,10 @@
 ##
- #
- # Created by Rambod Rahmani.
- # Section 3 - Color to Grayscale Conversion
- # grayscale-image.py
- #
- ##
+#
+# Created by Rambod Rahmani.
+# Section 3 - Color to Grayscale Conversion
+# grayscale-image.py
+#
+##
 
 import cv2
 import numpy as np

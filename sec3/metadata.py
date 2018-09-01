@@ -1,10 +1,18 @@
 ##
- #
- # Created by Rambod Rahmani.
- # Section 3 - Metadata
- # metadata.py
- #
- ##
+#
+# Created by Rambod Rahmani.
+# Section 3 - Metadata
+# metadata.py
+#
+# Image properties include number of rows, columns and channels, type of image
+# data, number of pixels etc. Shape of image is accessed by img.shape. It
+# returns a tuple of number of rows, columns and channels (if image is color).
+#
+# Note: If image is grayscale, tuple returned contains only number of rows and
+# columns. So it is a good method to check if loaded image is grayscale or color
+# image.
+#
+##
 
 import cv2
 import numpy as np
